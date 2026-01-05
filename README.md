@@ -1,4 +1,4 @@
-# AIG Shields Up (Forage) - Security Operations Simulation: Log4j Zero-Day Response + Ransomware Recovery Exercise
+# AIG Shields Up - Security Operations Simulation: Log4j Zero-Day Response + Ransomware Recovery Exercise
 
 ## Author
 **Ruchi Giradkar**  
