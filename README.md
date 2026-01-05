@@ -121,7 +121,7 @@ This task demonstrated understanding of weak credential risks, attacker operatio
 ## Tools and Technologies
 
 - Python
-- zipfile ZipFile library
+- ZipFile library
 - Public threat intelligence sources
 - CISA advisories
 - Infrastructure inventory analysis
