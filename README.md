@@ -145,8 +145,7 @@ This task demonstrated understanding of weak credential risks, attacker operatio
 ## Certificate
 
 The official certificate confirming completion of the AIG Shields Up Cybersecurity Job Simulation is included in this repository. 
-(![AIG Shields Up Cybersecurity Job Simulation Certificate](./AIG_Shields_Up_Cybersecurity_Job_Simulation_Ruchi_Giradkar.png)
-)
+![AIG Shields Up Cybersecurity Job Simulation Certificate](./AIG_Shields_Up_Cybersecurity_Job_Simulation_Ruchi_Giradkar.png)
 
 ---
 
