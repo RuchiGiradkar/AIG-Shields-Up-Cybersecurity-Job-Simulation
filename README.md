@@ -1,4 +1,4 @@
-# AIG Shields Up (Forage) — Security Operations Simulation: Log4j Zero-Day Response + Ransomware Recovery Exercise
+# AIG Shields Up (Forage) - Security Operations Simulation: Log4j Zero-Day Response + Ransomware Recovery Exercise
 
 ## Author
 **Ruchi Giradkar**  
@@ -27,7 +27,7 @@ The simulation is split into practical tasks that test:
 
 ---
 
-## Task One — Responding to a Zero-Day Vulnerability (Apache Log4j / CISA Advisory)
+## Task One - Responding to a Zero-Day Vulnerability (Apache Log4j / CISA Advisory)
 
 ### Objective
 Respond to a newly published **CISA alert** on a **zero-day vulnerability in Apache Log4j**, identify which enterprise infrastructure is affected, determine ownership, and draft a professional security advisory email with remediation steps.
@@ -69,7 +69,7 @@ Respond to a newly published **CISA alert** on a **zero-day vulnerability in Apa
 
 ---
 
-## Task Two — “Bypassing Ransomware” (Controlled Recovery Exercise using Encrypted File Pack)
+## Task Two - “Bypassing Ransomware” (Controlled Recovery Exercise using Encrypted File Pack)
 
 ### Objective
 Simulate defensive recovery steps in a controlled environment by recovering access to encrypted content using:
@@ -137,8 +137,3 @@ All work in this repository reflects an **educational simulation** completed in 
 No real-world systems were targeted, and no malicious activity was conducted.
 
 ---
-
-## How to Navigate This Repo (Quick Start)
-
-- Start with **Task One** to see the Log4j triage + infrastructure impact analysis + advisory output.
-- Then review **Task Two** for the encrypted file pack and the Python automation context.
