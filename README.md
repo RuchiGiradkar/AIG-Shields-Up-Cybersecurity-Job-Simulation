@@ -84,9 +84,9 @@ This task tests:
 
 ### What I did (technical workflow)
 1. **Reviewed the supplied recovery package**
-   - `EncryptedFilePack/enc.zip` — password-protected archive (simulated “encrypted payload”)
-   - `EncryptedFilePack/rockyou.txt` — common password list subset
-   - `EncryptedFilePack/bruteforce.py` — starter template requiring implementation
+   - `EncryptedFilePack/enc.zip` - password-protected archive (simulated “encrypted payload”)
+   - `EncryptedFilePack/rockyou.txt` - common password list subset
+   - `EncryptedFilePack/bruteforce.py` - starter template requiring implementation
 
 2. **Implemented a controlled password discovery routine in Python (defensive lab context)**
    - Used Python’s `zipfile.ZipFile` to attempt extraction using candidate passwords from the wordlist.
