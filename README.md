@@ -22,8 +22,8 @@ The simulation is split into practical tasks that test:
 ## Repository Contents
 
 ### Key folders/files (as provided in the ZIP)
-- `Task One/` — Log4j zero-day response workflow, screenshots, and written outputs
-- `Task Two/` — Ransomware-related exercise + encrypted file pack (Python starter template, encrypted ZIP, wordlist)
+- `Task One/` - Log4j zero-day response workflow, screenshots, and written outputs
+- `Task Two/` - Ransomware-related exercise + encrypted file pack (Python starter template, encrypted ZIP, wordlist)
 
 ---
 
