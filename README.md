@@ -110,7 +110,7 @@ This task tests:
 
 ---
 
-## Skills Demonstrated (ATS + Hiring Manager Keywords)
+## Skills Demonstrated 
 
 - **Security Operations (SOC)**
 - **Incident Response (IR) workflow awareness**
