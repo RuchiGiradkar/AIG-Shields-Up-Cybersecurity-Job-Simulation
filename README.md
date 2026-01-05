@@ -152,8 +152,4 @@ The official certificate confirming completion of the AIG Shields Up Cybersecuri
 
 All activities documented here were conducted in a controlled educational environment. No real world systems, networks, or data were targeted or harmed.
 
----
-
-## Why This Project Matters
-
 This project reflects realistic enterprise security scenarios where analysts must act quickly, avoid false positives, and communicate clearly during high impact incidents. It demonstrates practical security judgment rather than theoretical vulnerability analysis.
