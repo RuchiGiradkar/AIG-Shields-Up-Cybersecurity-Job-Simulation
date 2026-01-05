@@ -24,8 +24,6 @@ The simulation is split into practical tasks that test:
 ### Key folders/files (as provided in the ZIP)
 - `Task One/` — Log4j zero-day response workflow, screenshots, and written outputs
 - `Task Two/` — Ransomware-related exercise + encrypted file pack (Python starter template, encrypted ZIP, wordlist)
-- `Task Three/` — Resume snippet and interview tip writeups
-- `completion_certificate.pdf` — Certificate of completion (included)
 
 ---
 
@@ -112,23 +110,6 @@ This task tests:
 
 ---
 
-## Task Three — Professional Artifacts (Resume Snippet + Interview “Why AIG / Why this role?”)
-
-### Resume snippet produced
-- Focused on:
-  - threat analysis aligned to **CISA publications**
-  - vulnerability research and impact assessment
-  - drafting actionable remediation guidance
-  - applying Python in an ethical, controlled environment for recovery-oriented tasks
-
-### Interview answer produced (“Why are you interested in this role / AIG?”)
-- Emphasized:
-  - interest in enterprise security operations
-  - experience translating technical findings into action
-  - motivation to contribute to real-world cyber defense
-
----
-
 ## Skills Demonstrated (ATS + Hiring Manager Keywords)
 
 - **Security Operations (SOC)**
@@ -146,6 +127,8 @@ This task tests:
 
 AIG Shields Up: Cybersecurity Job Simulation — Certificate of Completion is included in this repository.
 
+![AIG Shields Up Cybersecurity Job Simulation Certificate](./AIG_Shields_Up_Cybersecurity_Job_Simulation_Ruchi_Giradkar.png)
+
 ---
 
 ## Ethical & Legal Disclaimer
@@ -159,4 +142,3 @@ No real-world systems were targeted, and no malicious activity was conducted.
 
 - Start with **Task One** to see the Log4j triage + infrastructure impact analysis + advisory output.
 - Then review **Task Two** for the encrypted file pack and the Python automation context.
-- Use **Task Three** for recruiter-facing artifacts (resume snippet + interview response).
